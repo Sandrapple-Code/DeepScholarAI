@@ -1,11 +1,11 @@
 # Agentic AI, Week 2, Prompt Engineering.
-## Project - DeepScholar AI
+## -> Project - DeepScholar AI
 
 - Prompting Engineering is a crucial part of learning or dealing with AI models or Agentic AI. Prompt Engineering helps make AI models more efficient, more fast and accurate.
 - During building your own chatbot you can make it learn the way you want the responses to be , the desired response you want to get from the model through prompt engineering.
 - There are many ways you can prompt the model to give you an answer, and there are various techniques as well, like zero-shot, Chain of thought, RAG, etc.
 
- ## Project Insights:
+ ## -> Project Insights:
 - In this project, I have created various features like explain like a 5-year-old, i.e., a simpler and easier explanation, as a way of prompt engineering.
 - I have included a summarizing feature that gives you a summary of the topic, and if you want a summary of a particular section or a topic-oriented summary, you can specify 
 a chatbot over it. This is how prompt Engineering works.
