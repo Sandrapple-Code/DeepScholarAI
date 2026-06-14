@@ -1,0 +1,6 @@
+{
+  "name": "DeepScholar AI",
+  "description": "An AI-powered academic research and knowledge workspace that generates detailed reports, organizes notes, logs and tracks tasks, manages folders of library items, and hosts customizable chatbots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
